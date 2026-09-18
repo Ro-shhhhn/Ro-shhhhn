@@ -1,44 +1,31 @@
 <!-- Header Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there%2C%20I%27m%20Roshan%20%F0%9F%91%8B&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Entrepreneur%20%E2%80%A2%20NSE%20Trader&descAlignY=58&descAlign=50&descColor=ffffffb0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there%2C%20I%27m%20Roshan%20%F0%9F%91%8B&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Entrepreneur&descAlignY=58&descAlign=50&descColor=ffffffb0" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+from+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+%7C+Cloud+%7C+Scalable+Systems;Co-founder+%40+DE+BL%CE%9BNC+%E2%80%94+Luxury+Menswear;Systematic+Intraday+Trader+on+NSE+%F0%9F%93%88;Always+Building.+Always+Shipping.+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ro-shhhhn&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+from+Kerala%2C+India;MERN+Stack+%7C+Cloud+%7C+Scalable+Systems;Co-founder+%40+DE+BL%CE%9BNC+%E2%80%94+Luxury+Menswear;ERP+%C2%B7+Fintech+%C2%B7+eCommerce+%C2%B7+CRM+Applications;Always+Building.+Always+Shipping." alt="Typing SVG" />
 </div>
 
 <br/>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
 ```yaml
-📍 Location  : Kerala, India
-💼 Role      : Full-Stack Developer & Freelancer
-👔 Venture   : Co-founder @ DE BLΛNC — Premium Luxury Menswear
-📈 Sideline  : Systematic Intraday Equity Trader (NSE)
-🛠️  Building  : Scalable web apps, REST APIs & SaaS products
-📧 Contact   : thedev.roshan@gmail.com
+Location  : Kerala, India
+Role      : Full-Stack Developer & Freelancer
+Venture   : Co-founder @ DE BLΛNC — Premium Luxury Menswear
+Built     : ERP · Fintech · eCommerce · CRM-level applications
+Focus     : Scalable web apps, REST APIs & SaaS products
+Contact   : thedev.roshan@gmail.com
 ```
 
 ---
 
-## 🚀 Currently Building
-
-- 👔 **DE BLΛNC** — Scaling a premium luxury men's brand from Kerala to global markets
-- 📊 **Trading Infrastructure** — NSE market scanners + personal trading journal app
-- 💻 **Freelance Projects** — Delivering production-ready web solutions
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 <div align="center">
@@ -61,13 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ro-shhhhn&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="170" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ro-shhhhn&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" height="170" alt="Top Languages" />
-</div>
+## GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ro-shhhhn&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
@@ -75,7 +56,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 <div align="center">
 
@@ -94,5 +75,5 @@
 </div>
 
 <div align="center">
-  <em>⚡ Engineering precision · Entrepreneurial ambition · Relentless execution</em>
+  <em>Engineering precision · Entrepreneurial ambition · Relentless execution</em>
 </div>
