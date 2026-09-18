@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+from+Kerala%2C+India;MERN+Stack+%7C+Cloud+%7C+Scalable+Systems;Co-founder+%40+DE+BL%CE%9BNC+%E2%80%94+Luxury+Menswear;ERP+%C2%B7+Fintech+%C2%B7+eCommerce+%C2%B7+CRM+Applications;Always+Building.+Always+Shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+from+Kerala%2C+India;MERN+Stack+%7C+Cloud+%7C+Scalable+Systems;ERP+%C2%B7+Fintech+%C2%B7+eCommerce+%C2%B7+CRM+Applications;Always+Building.+Always+Shipping." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,7 +17,6 @@
 ```yaml
 Location  : Kerala, India
 Role      : Full-Stack Developer & Freelancer
-Venture   : Co-founder @ DE BLΛNC — Premium Luxury Menswear
 Built     : ERP · Fintech · eCommerce · CRM-level applications
 Focus     : Scalable web apps, REST APIs & SaaS products
 Contact   : thedev.roshan@gmail.com
@@ -51,7 +50,7 @@ Contact   : thedev.roshan@gmail.com
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ro-shhhhn&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ro-shhhhn&count_private=true&include_all_commits=true&show_icons=true&hide=stars,prs,issues,contribs&custom_title=Total%20Contributions&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="Total Contributions" />
 </div>
 
 ---
